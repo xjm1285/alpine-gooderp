@@ -1,0 +1,2 @@
+#!/usr/bin/with-contenv sh
+gosu good /env/bin/python /app/base/odoo-bin --addons-path=/app/gooderp_addons
